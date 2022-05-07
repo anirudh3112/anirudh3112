@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @anirudh3112, an under graduate majoring in Computer Science Engineering ...                                             
+- 👀 I’m interested in java development, web devlopment (both front-end and back-end) and UI/UX Design ...                                                       
+- 🌱 I’m currently enhancing my skillset for my career ahead in the field of software development using Java 8 and Spring Boot 2.2 ...                           
+<!-- 📫 How to reach me ... -->                          
+
+<!---
+anirudh3112/anirudh3112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
